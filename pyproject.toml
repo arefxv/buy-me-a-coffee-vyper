@@ -1,0 +1,10 @@
+[project]
+name = "buy-me-a-coffee"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "moccasin>=0.4.2",
+    "vyper==0.4.1",
+]
